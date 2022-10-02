@@ -1,0 +1,49 @@
+body{
+   background-color: #B1B2FF ;
+}
+
+hr{
+  background-color: #6F38C5;
+  border-style: dotted none dotted;
+  border-width: 2px;
+  border-color: #8758FF;
+  height: 2px;
+  width: auto;
+}
+
+h1{
+  color: #EEF1FF;
+}
+
+h2{
+  color: #EEF1FF;
+}
+
+h3{
+  color: #EEF1FF;
+}
+
+
+.button{
+  border-color: blue;
+}
+.heading{
+  width: auto;
+  display: inline-block;
+}
+
+.image{
+  display: block;
+}
+
+.linkedin{
+  display: inline-block;
+}
+.name{
+    background-color: #8758FF;
+}
+
+.summary{
+  padding: 10px;
+  border: 10px;
+}
